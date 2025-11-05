@@ -1,2 +1,2 @@
-[Abstruct](https://github.com/johnny-shaman/My_Physics_Note/Abstruct.md)
-[Way to Experiment](https://github.com/johnny-shaman/My_Physics_Note/way_to_experiment.md)
+- [Abstruct](https://github.com/johnny-shaman/My_Physics_Note/blob/main/Abstruct.md)
+- [Way to Experiment](https://github.com/johnny-shaman/My_Physics_Note/blob/main/way_to_experiment.md)
